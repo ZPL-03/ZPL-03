@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm Liu Zhengpeng</h1>
-<h3 align="center">A passionate technology developer from China</h3>
+👋 Hi, I’m Zhengpeng Liu
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🎓 Background
+- M.Eng.      Candidate in Aerospace Engineering, Xi’an Jiaotong University (XJTU)
+- B.Eng. in Engineering Mechanics, Wuhan University of Science and Technology
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+💡 Research & Skills
+- Composite Materials Performance Prediction (strength envelope, transverse properties)
+- Machine Learning + CAE (CNN, ICNN, transfer learning applied to composites)
+- Finite Element Analysis (FEA): meso-scale RVE simulation, Abaqus UMAT/VUMAT development
+- Programming: Python (ML, data), C++/Fortran (solver implementation), MPI (parallel computing)
+
+🚀 Current Focus
+- Intelligent CAE solver development (AI-accelerated constitutive models)
+- Data-driven modeling of advanced composite structures
+- Industrial software R&D for aerospace and defense applications
+
+📌 What I Offer (Consulting/Side Projects)
+- Development of customized material constitutive models (especially composites)
+- Building AI/ML models for mechanical property prediction
+- Implementation of solver acceleration techniques (reduced-order models, ML surrogates)
+- FEA automation (Abaqus plugins, pre/post-processing, batch simulation pipelines)
+
+📧 Contact: [lzp03@stu.xjtu.edu.cn] | WeChat: [lzp13971812916]
