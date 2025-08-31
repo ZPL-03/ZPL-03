@@ -2,7 +2,7 @@
 
 🎓 Background
 - M.Eng.      Candidate in Aerospace Engineering, Xi’an Jiaotong University (XJTU)
-- B.Eng. in Engineering Mechanics, Wuhan University of Science and Technology
+- B.Eng. in Engineering Mechanics, Wuhan University of Science and Technology (WUST)
 
 💡 Research & Skills
 - Composite Materials Performance Prediction (strength envelope, transverse properties)
