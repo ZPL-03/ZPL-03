@@ -5,7 +5,7 @@
 - B.Eng. in Engineering Mechanics, Wuhan University of Science and Technology (WUST)
 
 💡 Research & Skills
-- Composite Materials Performance Prediction (strength envelope, transverse properties)
+- Composite Materials Performance Prediction (strength, stiffness, modulus, failure envelope)
 - Machine Learning + CAE (DNN/CNN/ICNN/GAN, transfer learning applied to composites)
 - Finite Element Analysis (FEA): meso-scale RVE simulation, Abaqus UMAT/VUMAT development
 - Programming: Python (ML, data), C++/Fortran (solver implementation), MPI (parallel computing)
