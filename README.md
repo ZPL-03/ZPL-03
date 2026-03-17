@@ -71,7 +71,7 @@
 - UMAT/VUMAT subroutine development for composite constitutive models
 - ML surrogate models for mechanical property prediction & inverse design
 - DeepONet / PINN implementation for engineering PDE problems
-- CAE solver prototyping with C++/Python hybrid architecture
+- CAE solver prototyping with C++/Python/Fortran hybrid architecture
 
 ---
 
