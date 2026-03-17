@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Zhengpeng Liu (刘正鹏)</h1>
+<h1 align="center">👋 Hi, I'm Zhengpeng Liu</h1>
 
 <p align="center">
   <b>AI for Science · Industrial CAE Software · Composite Mechanics</b><br>
