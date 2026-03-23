@@ -10,7 +10,7 @@
 
 - **M.Eng.** in Aerospace Engineering, Xi'an Jiaotong University (XJTU)
 - **B.Eng.** in Engineering Mechanics, Wuhan University of Science and Technology (WUST)
-- **Intern.** Industrial CAD/CAE R&D (FreeCAD-based secondary development)
+- **Intern.** Industrial CAE R&D (FreeCAD-based secondary development)
 
 ---
 
