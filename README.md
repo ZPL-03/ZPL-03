@@ -9,7 +9,7 @@
 
 - **M.Eng.** Aerospace Engineering, Xi'an Jiaotong University — GPA 3.89/4.0
 - **B.Eng.** Engineering Mechanics, Wuhan University of Science and Technology — GPA 3.77/4.0
-- **Intern** Beijing Shenzhou Aerospace Software Technology Co., Ltd. — Industrial CAE R&D (FreeCAD / C++ solver)
+- **Intern** Beijing Shenzhou Aerospace Software Technology Co., Ltd. — Industrial CAE R&D
 
 ---
 
@@ -34,10 +34,7 @@
 - **Architectures:** DNN · CNN (ResNet) · ICNN (Input Convex NN) · GAN · DeepONet · PINNs
 - **Applications:** Failure envelope prediction, surrogate constitutive modeling, operator learning for PDEs, deep transfer learning (DTL)
 - Frameworks: PyTorch · TensorFlow · Scikit-learn
-
-### LLM / Agent Systems
-- Multi-agent orchestration, LLM + RAG (ChromaDB + sentence-transformers)
-- Tool stack: Ollama · ChromaDB · LangChain · Claude Code (agentic workflows)
+- LLM/Agent: Ollama · ChromaDB · LangChain · Claude Code (agentic workflows)
 
 ### Programming & HPC
 - **Python** — ML pipelines, ABAQUS scripting, GUI (PyQt6 / PyVista), scientific computing
@@ -72,7 +69,8 @@
 - 💻 Neper-PFC数据转化接口 V1.0
 
 **Awards:**
-- 🏆 20+ competition awards (10+ national level), including: 国家奖学金 (2023)，MCM/ICM M Prize (team lead)，华为杯研究生数学建模竞赛二等奖 (team lead), 全国大学生数学竞赛二等奖
+- 🏆 Competition: MCM/ICM M Prize · 华为杯研究生数学建模二等奖 · 全国大学生数学竞赛二等奖 · 20+ total
+- 🎓 Scholarships: National Scholarship (2023)
 
 ---
 
