@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Zhengpeng Liu</h1>
-
 <p align="center">
   <b>AI for Science · Industrial CAE Software · Composite Mechanics</b><br>
 </p>
@@ -8,9 +7,9 @@
 
 ## 🎓 Background
 
-- **M.Eng.** in Aerospace Engineering, Xi'an Jiaotong University (XJTU)
-- **B.Eng.** in Engineering Mechanics, Wuhan University of Science and Technology (WUST)
-- **Intern.** Industrial CAE R&D (FreeCAD-based secondary development)
+- **M.Eng.** Aerospace Engineering, Xi'an Jiaotong University — GPA 3.89/4.0
+- **B.Eng.** Engineering Mechanics, Wuhan University of Science and Technology — GPA 3.77/4.0
+- **Intern** Beijing Shenzhou Aerospace Software Technology Co., Ltd. — Industrial CAE R&D (FreeCAD / C++ solver)
 
 ---
 
@@ -28,18 +27,21 @@
 ## 🛠️ Technical Skills
 
 ### Simulation & FEA
-- **ABAQUS Secondary Development:** Parametric modeling (Python scripting / GUI plugins), UMAT/VUMAT/USDFLD subroutine authoring, cohesive element insertion, RVE periodic boundary conditions
-- Multi-scale FEA: meso/micro-scale RVE (fiber, matrix, void, interface), UD & short-fiber composites
+- **ABAQUS Secondary Development:** Parametric modeling (Python scripting / GUI plugins), UMAT/VUMAT/USDFLD subroutine authoring, cohesive element and PBC applying
 - Structural analysis: buckling, progressive damage, thermo-mechanical coupling
 
 ### Machine Learning / Deep Learning
 - **Architectures:** DNN · CNN (ResNet) · ICNN (Input Convex NN) · GAN · DeepONet · PINNs
-- **Applications:** Failure envelope prediction, material property surrogate models, operator learning for PDEs, transfer learning across composite systems
+- **Applications:** Failure envelope prediction, surrogate constitutive modeling, operator learning for PDEs, deep transfer learning (DTL)
 - Frameworks: PyTorch · TensorFlow · Scikit-learn
 
+### LLM / Agent Systems
+- Multi-agent orchestration, LLM + RAG (ChromaDB + sentence-transformers)
+- Tool stack: Ollama · ChromaDB · LangChain · Claude Code (agentic workflows)
+
 ### Programming & HPC
-- **Python** — ML pipelines, ABAQUS scripting, GUI (PyQt6), scientific computing
-- **C++ / Fortran** — Solver kernels, constitutive model implementation, Eigen, pybind11
+- **Python** — ML pipelines, ABAQUS scripting, GUI (PyQt6 / PyVista), scientific computing
+- **C++ / Fortran** — Solver kernels, constitutive model implementation (Eigen, pybind11)
 - **Parallel Computing:** OpenMP · MPI · CUDA (cuSPARSE)
 - Dev environment: VS2022 · WSL2 (Ubuntu) · Intel oneAPI · Anaconda
 
@@ -49,19 +51,28 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **MDD-TFC** | Model-data-driven transverse failure criterion for UD-CFRP; ResNet-101 + Tsai-Wu + ICNN | PyTorch · ABAQUS |
-| **Composite Intelligent Design Platform** | Multi-scale hierarchical design (microstructure → fuselage); PyInstaller packaging, dual GPU env | PyQt6 · TF · PyTorch |
-| **Stiffened Panel Buckling Surrogate** | ML surrogate + ABAQUS FEA for buckling prediction & lightweight optimization of T-stiffened panels | Python · ABAQUS |
-| **CAE FEM Software** | Lightweight FEM solver with PyQt6 GUI + C++/Eigen compute core, pybind11 bridge | C++ · PyQt6 · pybind11 |
-| **3D RVE Automation** | ABAQUS Python scripts for RSA fiber placement, PBC, cohesive elements, void defects | Python · ABAQUS |
+| **CSDM** | Multi-agent AI system for composite stiffened panel structural design (AVIC 一飞院 collaboration); 6-agent pipeline from NL input → LLM candidate gen + RAG retrieval + surrogate screening → ABAQUS FEM validation → report | Python · LLM · RAG · ABAQUS |
+| **MDD-TFC** | Model-data-driven transverse failure criterion for UD-CFRP; ResNet-101 + Tsai-Wu + ICNN maps RVE microstructure to full failure envelope via only 4 load cases; validated via few-shot transfer learning (*TWS* Q1, 1st author) | PyTorch · ABAQUS |
+| **FE-NN-KT** | Multi-scale homogenization framework: offline RVE sampling → surrogate constitutive model training → online FE-NN macro solver; coarse-to-fine transfer reduces data cost 3.3×, macro analysis 20× faster than DNS | PyTorch · ABAQUS · Q4 FEM |
+| **Composite Intelligent Design Platform** | Hierarchical design platform (microstructure → laminate → stiffened panel → fuselage); sub-second inference with per-level AI models; supports user fine-tuning | PyQt6 · TF · PyTorch |
+| **CAE FEM Software** | Lightweight FEM solver: PyQt6 + PyVista frontend, C++/Eigen compute core, pybind11 bridge, Gmsh meshing, real-time stress/displacement rendering | C++ · PyQt6 · pybind11 · Gmsh |
 
 ---
 
-## 📄 Publications & Awards
+## 📄 Publications, Copyrights & Awards
 
-- 📝 **First-author Q1 SCI** — *Thin-Walled Structures*, Vol. 225 (2026): MDD-TFC for UD-CFRP composites
-- 💻 2× Software Copyrights
-- 🏆 20+ Competition Awards (10+ National Level) | Top GPA ranking (B.Eng. & M.Eng.)
+**Papers (2 SCI papers, total IF 15.5):**
+- 📝 **Liu Z**, et al. A model and data-driven transverse failure criterion for UD-CFRP composites. *Thin-Walled Structures*, 2026. (**Q1 Top, 1st author**)
+- 📝 Wang Q, Li Z, **Liu Z**, et al. Interpretable prediction of ultimate strength of composite pressure hulls using symbolic regression. *Composites Part A*, 2026. (Q2 Top, 3rd author)
+
+**Software Copyrights (4×, all 1st inventor):**
+- 💻 航空复合材料多层级智能设计平台 V1.0
+- 💻 复合材料参数化建模ABAQUS插件 V1.0
+- 💻 通用CAE求解系统 V1.0
+- 💻 Neper-PFC数据转化接口 V1.0
+
+**Awards:**
+- 🏆 20+ competition awards (10+ national level), including: 国家奖学金 (2023)，MCM/ICM M Prize (team lead)，华为杯研究生数学建模竞赛二等奖 (team lead), 全国大学生数学竞赛二等奖
 
 ---
 
@@ -70,6 +81,7 @@
 - Custom ABAQUS plugins & batch simulation pipelines (parametric modeling, pre/post-processing)
 - UMAT/VUMAT subroutine development for composite constitutive models
 - ML surrogate models for mechanical property prediction & inverse design
+- Multi-agent AI systems for simulation automation (LLM + RAG + FEM in the loop)
 - DeepONet / PINN implementation for engineering PDE problems
 - CAE solver prototyping with C++/Python/Fortran hybrid architecture
 
