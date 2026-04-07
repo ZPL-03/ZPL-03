@@ -51,7 +51,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **CSDM** | Multi-agent AI system for composite stiffened panel structural design (AVIC 一飞院 collaboration); 6-agent pipeline from NL input → LLM candidate gen + RAG retrieval + surrogate screening → ABAQUS FEM validation → report | Python · LLM · RAG · ABAQUS |
+| **CSDM** | Multi-agent AI system for composite stiffened panel structural design; 6-agent pipeline from NL input → LLM candidate gen + RAG retrieval + surrogate screening → ABAQUS FEM validation → report | Python · LLM · RAG · ABAQUS |
 | **MDD-TFC** | Model-data-driven transverse failure criterion for UD-CFRP; ResNet-101 + Tsai-Wu + ICNN maps RVE microstructure to full failure envelope via only 4 load cases; validated via few-shot transfer learning (*TWS* Q1, 1st author) | PyTorch · ABAQUS |
 | **FE-NN-KT** | Multi-scale homogenization framework: offline RVE sampling → surrogate constitutive model training → online FE-NN macro solver; coarse-to-fine transfer reduces data cost 3.3×, macro analysis 20× faster than DNS | PyTorch · ABAQUS · Q4 FEM |
 | **Composite Intelligent Design Platform** | Hierarchical design platform (microstructure → laminate → stiffened panel → fuselage); sub-second inference with per-level AI models; supports user fine-tuning | PyQt6 · TF · PyTorch |
