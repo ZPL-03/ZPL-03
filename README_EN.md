@@ -16,8 +16,7 @@
 
 - M.Eng. candidate at Xi'an Jiaotong University through graduate recommendation, GPA 3.89/4.0.
 - B.Eng. in Engineering Mechanics from Wuhan University of Science and Technology, GPA 3.77/4.0.
-- Research interests: AI for Science (AI4S) and AI for Engineering (AI4E).
-- Working at the intersection of AI and solid mechanics, with a focus on AI-accelerated simulation, intelligent modeling, and industrial CAE software.
+- Research focus: the intersection of AI and solid mechanics, with an emphasis on AI-accelerated simulation, intelligent modeling, and industrial CAE software.
 
 ## Focus
 
