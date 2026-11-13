@@ -17,7 +17,7 @@
 - M.Eng. candidate at Xi'an Jiaotong University through graduate recommendation, GPA 3.89/4.0.
 - B.Eng. in Engineering Mechanics from Wuhan University of Science and Technology, GPA 3.77/4.0.
 - Research interests: AI for Science (AI4S) and AI for Engineering (AI4E).
-- Former algorithm intern at Huawei's 2012 Laboratories and R&D intern at Beijing Shenzhou Aerospace Software Technology Co., Ltd., working on AI-assisted modeling, open-source CAE architecture, and AI-accelerated simulation.
+- Algorithm intern with experience in AI-assisted modeling, open-source CAE architecture, and AI-accelerated simulation.
 
 ## Focus
 
