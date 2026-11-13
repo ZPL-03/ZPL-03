@@ -17,12 +17,13 @@
 - M.Eng. candidate at Xi'an Jiaotong University through graduate recommendation, GPA 3.89/4.0.
 - B.Eng. in Engineering Mechanics from Wuhan University of Science and Technology, GPA 3.77/4.0.
 - Research interests: AI for Science (AI4S) and AI for Engineering (AI4E).
-- Algorithm intern with experience in AI-assisted modeling, open-source CAE architecture, and AI-accelerated simulation.
+- Working at the intersection of AI and solid mechanics, with a focus on AI-accelerated simulation, intelligent modeling, and industrial CAE software.
 
 ## Focus
 
-- **AI-accelerated simulation:** surrogate models, reduced-order models, and digital twins.
-- **Industrial CAX software:** geometry algorithms, meshing algorithms, and solvers.
+- **AI-assisted modeling:** CAD modeling-context understanding, next-operation prediction, and human-in-the-loop interaction.
+- **AI-accelerated simulation:** surrogate models, reduced-order models, physics-constrained learning, and digital twins.
+- **Industrial CAX software:** geometric modeling, meshing algorithms, solver integration, and pre/post-processing.
 - **Engineering agents:** natural-language requirement parsing, structured contracts, tool orchestration, knowledge feedback, and traceable analysis reports.
 
 ## Featured Open-source Projects
