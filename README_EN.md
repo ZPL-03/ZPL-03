@@ -21,9 +21,9 @@
 
 ## Focus
 
-- **AI-assisted modeling:** CAD modeling-context understanding, next-operation prediction, and human-in-the-loop interaction.
+- **AI-assisted modeling:** CAD modeling-context understanding, workflow assistance, and human-in-the-loop interaction.
 - **AI-accelerated simulation:** surrogate models, reduced-order models, physics-constrained learning, and digital twins.
-- **Industrial CAX software:** geometric modeling, meshing algorithms, solver integration, and pre/post-processing.
+- **Industrial CAD/CAE software:** geometry and meshing algorithms, solver integration, and simulation workflow tooling.
 - **Engineering agents:** natural-language requirement parsing, structured contracts, tool orchestration, knowledge feedback, and traceable analysis reports.
 
 ## Featured Open-source Projects
